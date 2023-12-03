@@ -1,0 +1,42 @@
+* {
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+  position: relative;
+  gap: 200px 20%;
+}
+
+li {
+  padding: 2%;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+}
+
+a {
+  color: black;
+  text-decoration-line: none;
+}
+
+.main {
+  position: relative;
+  width: 1200px;
+}
+
+.category {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  width: 1200px;
+  padding: 5%;
+  flex-wrap: wrap;
+  /* margin: 10%; */
+  /* align-items: center; */
+}
+
+.main-icon {
+  width: 100px;
+  height: 100px;
+}

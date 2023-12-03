@@ -1,0 +1,15 @@
+table {
+  padding: 10%;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 30%;
+  background-color: burlywood;
+}
+
+#main-img {
+  width: 200px;
+  height: 200px;
+}
